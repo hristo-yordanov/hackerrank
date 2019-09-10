@@ -1,1 +1,1 @@
-![alt text](https://img.png)
+![alt text](https://https://github.com/hristo-yordanov/hackerrank/tree/master/problem_solving/algorithms/graph_theory/roads_and_libararies/img/img.png)
